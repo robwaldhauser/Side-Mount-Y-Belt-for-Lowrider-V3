@@ -1,4 +1,5 @@
 # Side-Mount-Y-Belt-for-Lowrider-V3
+![image](https://github.com/robwaldhauser/Side-Mount-Y-Belt-for-Lowrider-V3/assets/83437058/657bd0eb-9e0a-44a7-bd2f-af2b1e9e7099)
 
 Printed Items:
 - Motor Mount can be printed once for each side, does not need to be mirrored. Use a material with low amount of flex like PLA. Be generous with your walls and infill.
